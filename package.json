@@ -16,7 +16,7 @@
     "@react-navigation/drawer": "^5.1.1",
     "@react-navigation/native": "^5.0.9",
     "@react-navigation/stack": "^5.2.11",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bugsnag-react-native": "^2.23.9",
     "deprecated-react-native-listview": "0.0.6",
     "geolib": "^3.2.0",
